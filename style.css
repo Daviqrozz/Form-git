@@ -6,7 +6,17 @@ body{
     background-color:#82877b;
 }
 .Form{
-    width: 100px;
-    height: 100px;
-    background-color: red;
+    width: 100vw;
+    height: 100vh;
+    background-color:#82877b;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
+.box{
+width: 300px;
+height: 300px;
+background: #fff;
+}
+
