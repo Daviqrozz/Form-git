@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:#82877b;
+}
+.Form{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
