@@ -17,6 +17,27 @@ body{
 .box{
 width: 300px;
 height: 300px;
+align-items: center;
 background: #fff;
+text-align: center;
+}
+.email{
+padding:8px;
+margin: 5px;
+width: 80%;
+border-radius: 5px ;
+border: 2px solid black;
+}
+.senha{
+padding:8px;
+margin: 5px;
+width: 80%;
+border-radius: 5px ;
+border: 2px solid black;
+}
+.inputs{
+background-color: red;
+margin-top:60px;
+border-radius: 5px;
 }
 
