@@ -20,9 +20,9 @@ border-radius: 20px;
 
 }
 .recuperar{
-    margin-left: 78px;
-    display: block;
-    font-family: 'Kanit', sans-serif;
+margin-left: 78px;
+display: block;
+font-family: 'Kanit', sans-serif;
 padding: 5px;
 background-color: #26cfa9;
 border: solid 3px black;
@@ -30,7 +30,7 @@ border-radius: 20px;
 
 }
 body{
-    background-color:#82877b;
+background-color:#82877b;
 } 
 h1{
 padding-top: 10%;
@@ -38,19 +38,19 @@ font-family: Arial, Helvetica, sans-serif;
 
 }
 h2{
-    padding-top: 2px;
+padding-top: 2px;
 font-family: Arial, Helvetica, sans-serif;
 
 }
 
 .Form{
-    width: 100vw;
-    height: 100vh;
-    background-color:#82877b;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+width: 100vw;
+height: 100vh;
+background-color:#82877b;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
 }
 .box{
 text-align: center;
@@ -66,18 +66,18 @@ margin-top: 40px;
 
 }
 .enviar{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 2px;
-    text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 2px;
+text-align: center;
 padding: 5px;
 background-color: grey;
 border: solid 3px black;
 border-radius: 4px;
 }
 .recuperar{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-left: 144px;
-    display: block;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-left: 144px;
+display: block;
 padding: 5px;
 background-color: grey;
 border: solid 3px black;
@@ -89,7 +89,7 @@ margin-top: 60px;
 border-radius: 5px;
 }
 .email{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 padding:8px;
 margin: 5px;
 width: 80%;
@@ -97,7 +97,7 @@ border-radius: 5px ;
 border: 2px solid black;
 }
 .senha{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 padding:8px;
 margin: 5px;
 width: 80%;
